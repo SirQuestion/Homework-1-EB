@@ -1,0 +1,84 @@
+commit 03775d3b114137b7bf0dab5bb8c23d6a789ab0a6
+Merge: f37cdce 9020fa5
+Author: Enzo Armand Bagunas <100452677+SirQuestion@users.noreply.github.com>
+Date:   Fri Feb 13 13:15:48 2026 -0800
+
+    Merge pull request #1 from SirQuestion/feature-about-me
+    
+    Changed index.html with a new About Me website
+
+commit 9020fa5f74d6a198e338c88dc0873c90f997fb9b
+Merge: 1fe1bc8 f37cdce
+Author: Enzo Armand Bagunas <100452677+SirQuestion@users.noreply.github.com>
+Date:   Fri Feb 13 13:15:31 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 1fe1bc8f695cb8c12ec632e81f4ea22580195e89
+Author: SirQuestion <fiends-grebe.0a@icloud.com>
+Date:   Fri Feb 13 13:11:32 2026 -0800
+
+    Removed brackets around owner's name
+
+commit b47b6efadcc1ef108dce9d427d913ee2ead8d256
+Author: JanFlores95 <jflores0453@gmail.com>
+Date:   Fri Feb 13 13:08:22 2026 -0800
+
+    updated about me section
+
+commit cdf318b35758736e0cd2a7d73f68bd522a4a52e7
+Author: SirQuestion <fiends-grebe.0a@icloud.com>
+Date:   Fri Feb 13 12:57:38 2026 -0800
+
+    Added README.md
+
+commit f1e91929b42850abbe0ccc4c0e99d95a3ae366ea
+Author: SirQuestion <fiends-grebe.0a@icloud.com>
+Date:   Fri Feb 13 12:55:54 2026 -0800
+
+    Removed brackets around info entries
+
+commit dc7d6f3681279097fece68b5be15e0d7671e8bb9
+Author: SirQuestion <fiends-grebe.0a@icloud.com>
+Date:   Fri Feb 13 12:54:42 2026 -0800
+
+    Added information about me
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
